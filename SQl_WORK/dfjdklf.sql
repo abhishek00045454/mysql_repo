@@ -1,0 +1,1 @@
+select distinct(brand_name) as "brand_name" from campusx.smartphones;

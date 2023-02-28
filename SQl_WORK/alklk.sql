@@ -1,0 +1,1 @@
+select distinct brand_name, processor_brand from campusx.smartphones;

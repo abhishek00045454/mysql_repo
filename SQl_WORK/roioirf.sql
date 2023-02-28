@@ -1,0 +1,1 @@
+select model,"smartphone" as "type" from campusx.smartphones;

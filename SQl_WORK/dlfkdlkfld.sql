@@ -1,0 +1,1 @@
+select model,round(rating/10,2) from campusx.smartphones;
